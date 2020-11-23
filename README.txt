@@ -1,1 +1,1 @@
-white_list is a script to verify if an entity is listed in so colled "white list" (Polish: bia³a lista podatników).
+white_list is a script to verify if an entity is listed in so colled "white list" (Polish: biala lista podatników).
